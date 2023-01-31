@@ -1,5 +1,6 @@
-# Note from local 3
+# Git Test
+## Note Local
 - 1 `Tis is tets git :` test git
 - 2 `Second line :` second line
-# Note from remote 3
+## Note Remote
 - 3 `third line :` third line
