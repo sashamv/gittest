@@ -9,8 +9,8 @@
 - 5 `fifth line :` fifth line
 
 ## Rebase
-- 7 `seventh line :` seventh line
 - 6 `sixth line :` sixth line
+- 7 `seventh line :` seventh line
 - 8 `eight line :` eight line
 - 9 `ninth line :` ninth line
 
@@ -22,5 +22,4 @@
 - 12 `twelfth line :` twelfth line
 - 13 `thirteenth line :` thirteenth line
 - 14 `fourteenth line :` fourteenth line
-- 15 `fifteenth line :` fifteenth line
- 
+- 15 `fifteenth line :` fifteenth line 
