@@ -8,13 +8,8 @@
 - 4 `fourth line :` fourth line
 - 5 `fifth line :` fifth line
 
-## RebaSE - main line 3
-
+## Rebase
 - 7 `seventh line :` seventh line
 - 6 `sixth line :` sixth line
 - 8 `eight line :` eight line
 - 9 `ninth line :` ninth line
-
-- main line 1
-- main line 2
-    
