@@ -15,4 +15,4 @@
 - 9 `ninth line :` ninth line
 
 ## Stash
-- 10 `ten line :` ten line
+- 10 `tenth line :` tenth line
